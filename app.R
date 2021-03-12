@@ -1,5 +1,5 @@
 # Juliana Brandt
-source("census-app/helpers.R")
+source("helpers.R")
 counties = readRDS("data/counties.rds")
 library(shiny)
 library(maps)
